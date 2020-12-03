@@ -14,6 +14,7 @@ def read(fname):
 
 install_requires = [
     'Django>=1.11',
+    'six>=1.15'
 ]
 
 setup(
